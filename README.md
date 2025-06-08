@@ -51,20 +51,54 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
 
 ## 📸 Interface Previews
 
-| Dashboard | Face & Emotion Detection | AI Assistant |
-|----------|------------------------------------|--------------|
-| <img src="screenshots/dashboard.png" width="300"/> | 
-<img src="screenshots/seq1.png" width="150" style="margin-right:10px"/> 
-<img src="screenshots/detetsouris.png" width="150"/> | 
-<img src="screenshots/assistant.png" width="300"/> |
+<table>
+  <thead>
+    <tr>
+      <th>Dashboard</th>
+      <th>Face & Emotion Detection</th>
+      <th>AI Assistant</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="screenshots/dashboard.png" width="280"/>
+      </td>
+      <td align="center">
+        <img src="screenshots/seq1.png" width="140" style="margin-right:10px"/>
+        <img src="screenshots/detetsouris.png" width="140"/>
+      </td>
+      <td align="center">
+        <img src="screenshots/assistant.png" width="280"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| Object Detection | Detection via USB | Detection via Drag & Drop |
-|------------------|-------------------|----------------------------|
-| <img src="screenshots/det1.png" width="300"/> | 
-| <img src="screenshots/recordphone.png" width="300"/> | 
-| <img src="screenshots/draganddrop.png" width="300"/> |
+<br>
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Object Detection</th>
+      <th>Detection via USB</th>
+      <th>Detection via Drag & Drop</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="screenshots/det1.png" width="280"/>
+      </td>
+      <td align="center">
+        <img src="screenshots/recordphone.png" width="280"/>
+      </td>
+      <td align="center">
+        <img src="screenshots/draganddrop.png" width="280"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 🛠️ Installation & Setup
