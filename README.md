@@ -55,9 +55,9 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
 |----------|----------------|----------------------|
 | ![](screenshots/dashboard.png) | ![](screenshots/detetsouris.png) | ![](screenshots/assistant.png) |
 
-| object detection | 
+| object detection | object detection | object detection | 
 |-------------|----------------|----------------------|
-| ![](screenshots/det1.png) |![](screenshots/record phone.png) | ![](screenshots/assistant.png) |
+| ![](screenshots/det1.png) |![](screenshots/recordphone.png) | ![](screenshots/assistant.png) |
 
 > 📁 All screenshots should be placed in a `/screenshots` directory inside the project.
 
