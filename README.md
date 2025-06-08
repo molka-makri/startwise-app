@@ -51,13 +51,13 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
 
 ## 📸 Interface Previews
 
-| Dashboard | Face Detection | Compatibility Engine |
+| Dashboard | Face & emotion Detection | AI Assistant |
 |----------|----------------|----------------------|
-| ![](screenshots/dashboard.png) | ![](screenshots/facedetection.png) | ![](screenshots/compatibility.png) |
+| ![](screenshots/dashboard.png) | ![](screenshots/detetsouris.png) | ![](screenshots/assistant.png) |
 
-| AI Assistant | Calendar | Fault Alert |
-|-------------|----------|-------------|
-| ![](screenshots/assistant.png) | ![](screenshots/calendar.png) | ![](screenshots/alert.png) |
+| object detection | 
+|-------------|----------------|----------------------|
+| ![](screenshots/det1.png) |![](screenshots/record phone.png) | ![](screenshots/assistant.png) |
 
 > 📁 All screenshots should be placed in a `/screenshots` directory inside the project.
 
