@@ -53,11 +53,24 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
 
 | Dashboard | Face & Emotion Detection | AI Assistant |
 |----------|---------------------------|--------------|
-| ![](screenshots/dashboard.png) | ![](screenshots/seq1.png)<br>![](screenshots/detetsouris.png) | ![](screenshots/assistant.png) |
+| 
+<img src="screenshots/dashboard.png" width="300"/> 
+| 
+<img src="screenshots/seq1.png" width="200"/><br>
+<img src="screenshots/detetsouris.png" width="200"/> 
+| 
+<img src="screenshots/assistant.png" width="300"/> 
+|
 
-| object detection via webcam | object detection via usb | object detection via drag/drop | 
-|-------------|----------------|----------------------|
-| ![](screenshots/det1.png) |![](screenshots/recordphone.png) | ![](screenshots/draganddrop.png) |
+| Object Detection | Detection via USB | Detection via Drag & Drop |
+|------------------|-------------------|----------------------------|
+| 
+<img src="screenshots/det1.png" width="300"/> 
+| 
+<img src="screenshots/recordphone.png" width="300"/> 
+| 
+<img src="screenshots/draganddrop.png" width="300"/> 
+|
 
 
 
