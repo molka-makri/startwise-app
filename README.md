@@ -61,8 +61,8 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
 | Object Detection | Detection via USB | Detection via Drag & Drop |
 |------------------|-------------------|----------------------------|
 | <img src="screenshots/det1.png" width="300"/> | 
-<img src="screenshots/recordphone.png" width="300"/> | 
-<img src="screenshots/draganddrop.png" width="300"/> |
+| <img src="screenshots/recordphone.png" width="300"/> | 
+| <img src="screenshots/draganddrop.png" width="300"/> |
 
 
 ---
