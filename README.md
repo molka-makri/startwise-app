@@ -1,6 +1,6 @@
 # 🧠 StartWise App – Smart Consulting Desktop Platform
 
-## 🧭 Overview
+## 📌 Overview
 
 **StartWise App** is an intelligent desktop platform designed for consulting offices and innovation hubs.  
 It integrates AI-driven technologies to enhance project management, team efficiency, client compatibility, and system security.
@@ -41,10 +41,10 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
 ## 💡 Key Features
 
 - 🔐 **Facial Recognition & Emotion Detection** – Secure access and track employee motivation.
-- ⚙️ **Fault Detection System** – AI alerts when a device fails ("ressource tombe en panne").
+- ⚙️ **Fault Detection System** – AI alerts when a device fails.
 - 🤖 **Integrated AI Assistant** – Provides instant help, guidance, and intelligent suggestions.
 - 🧠 **Client-Project Compatibility Engine** – Matches clients to the right projects using smart analysis.
-- 📍 **Dynamic Calendar & Map** – Manage events, locations, and deadlines in a smart, interactive view.
+- 📍 **Dynamic Calendar & Map** – Manage locations, in a smart, interactive view.
 - 🔎 **Object Detection** – Enhance task automation and smart interactions with office elements.
 
 ---
