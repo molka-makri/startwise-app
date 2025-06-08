@@ -56,8 +56,8 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
 | 
 <img src="screenshots/dashboard.png" width="300"/> 
 | 
-<img src="screenshots/seq1.png" width="200"/><br>
-<img src="screenshots/detetsouris.png" width="200"/> 
+<img src="screenshots/seq1.png" width="100"/><br>
+<img src="screenshots/detetsouris.png" width="100"/> 
 | 
 <img src="screenshots/assistant.png" width="300"/> 
 |
