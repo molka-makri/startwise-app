@@ -99,8 +99,31 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
     </tr>
   </tbody>
 </table>
----
 
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Consultation evaluation</th>
+      <th>Map View</th>
+      <th>Cv traitement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="screenshots/consult_eval.png" width="280"/>
+      </td>
+      <td align="center">
+        <img src="screenshots/geo.png" width="280"/>
+      </td>
+      <td align="center">
+        <img src="screenshots/cv_trait.png" width="280"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the Repository
