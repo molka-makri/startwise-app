@@ -125,6 +125,10 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
     </tr>
   </tbody>
 </table>
+
+---
+
+
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the Repository
