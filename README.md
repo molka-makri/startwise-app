@@ -40,6 +40,7 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
 
 ## 💡 Key Features
 
+-🧾 Functional CRUD System for all core modules:Projects, Resources, Employees, Clients, and Consultations.
 - 🔐 **Facial Recognition & Emotion Detection** – Secure access and track employee motivation.
 - ⚙️ **Fault Detection System** – AI alerts when a device fails.
 - 🤖 **Integrated AI Assistant** – Provides instant help, guidance, and intelligent suggestions.
