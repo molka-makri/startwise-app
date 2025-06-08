@@ -52,7 +52,7 @@ Monitor resource health, integrate dynamic calendar and location mapping, and ac
 ## 📸 Interface Previews
 
 | Dashboard | Face & Emotion Detection | AI Assistant |
-|----------|---------------------------|--------------|
+|----------|------------------------------------|--------------|
 | <img src="screenshots/dashboard.png" width="300"/> | 
 <img src="screenshots/seq1.png" width="150" style="margin-right:10px"/> 
 <img src="screenshots/detetsouris.png" width="150"/> | 
