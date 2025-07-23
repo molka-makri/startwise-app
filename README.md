@@ -15,21 +15,21 @@ This all-in-one solution provides advanced features like facial and emotion reco
 
 <div style="flex: 1 1 250px; background: white; border-radius: 10px; padding: 1.5em; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-### 🏢 Consulting Offices  
+### Consulting Offices  
 Leverage intelligent project-client matching, optimize employee performance with emotion analysis, and streamline office management.
 
 </div>
 
 <div style="flex: 1 1 250px; background: white; border-radius: 10px; padding: 1.5em; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-### 👩‍💼 Startup Teams  
+### Startup Teams  
 Secure access with facial recognition, improve task assignment, and ensure timely maintenance of resources through AI assistance.
 
 </div>
 
 <div style="flex: 1 1 250px; background: white; border-radius: 10px; padding: 1.5em; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-### 📊 Innovation Managers  
+### Innovation Managers  
 Monitor resource health, integrate dynamic calendar and location mapping, and access smart dashboards for decision-making.
 
 </div>
